@@ -30,7 +30,7 @@ For more information about Office 365 REST API, see the [API Docs](https://msdn.
 
 - To run the app in Visual Studio, hit F5. 
 
--  To run the app in node shell, go to the app's bin directory and type `node www` to start the server. Then open a browser and enter "http://localhost:1337" in the address bar, assuming the default setting is preserved.
+-  To run the app in node shell, go to the app's bin directory and type 'npm install' to locally install any missing packages. Afterwards, type `node www` to start the server. Then open a browser and enter "http://localhost:1337" in the address bar, assuming the default setting is preserved.
 
 - If you have not done so, install [node.js](http://nodejs.org/download/) to your working machine.
 
